@@ -1,0 +1,63 @@
+# Git Ignore for Bug Chaos (Ethical Hacking & Bug Bounty Learning Journey)
+
+# Credentials, Secrets & Tokens
+*.env
+*.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+id_rsa*
+*.secret
+*.token
+credentials.json
+auth_tokens.txt
+
+# Session & Authentication Data
+cookies.txt
+session_data/
+*.session
+
+# Network Captures & Proxy Files
+*.pcap
+*.pcapng
+*.cap
+*.burp
+*.sitemap
+burp.log
+*.har
+caido.db*
+caido-data/
+
+# Private Evidence & Sensitive Artifacts
+evidence/private/
+*.raw_capture
+target_credentials/
+client_data/
+
+# OS and Editor Temporary Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# IDE and Editor Configs (personal preferences / caches)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Script and Environment Dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+node_modules/
+dist/
+build/
