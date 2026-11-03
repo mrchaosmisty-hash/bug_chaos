@@ -8,6 +8,7 @@ This directory contains lab write-ups and exercise proofs completed on the [Port
 
 | Category | Lab Title | Difficulty | Solved Status | Write-up Link |
 | :--- | :--- | :---: | :---: | :--- |
+| **Path Traversal** | File path traversal, simple case | Apprentice | `Practiced With Help` | [Lab 001](file-path-traversal-simple-case.md) |
 | **Access Control** | Unprotected admin functionality | Apprentice | `Not Started` | [Pending writeup] |
 | **Access Control** | Unprotected admin functionality with unpredictable URL | Apprentice | `Not Started` | [Pending writeup] |
 | **Access Control** | User role can be modified in user profile | Apprentice | `Not Started` | [Pending writeup] |
