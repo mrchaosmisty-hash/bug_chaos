@@ -31,7 +31,7 @@ This skill matrix tracks practical, hands-on capabilities across application sec
 | Skill / Competency | Current Status | Verification Note / Lab Link | Last Updated |
 | :--- | :---: | :--- | :--- |
 | Burp Suite Proxy Setup & CA Certificate Installation | `Not Started` | — | 2026-10-31 |
-| Burp Repeater Request Modification & Replay | `Not Started` | — | 2026-10-31 |
+| Burp Repeater Request Modification & Replay | `Practiced With Help` | [Lab 001](../labs/portswigger/file-path-traversal-simple-case.md) | 2026-11-03 |
 | Burp Intruder / Caido Automate (Fuzzing workflows) | `Not Started` | — | 2026-10-31 |
 | Browser DevTools (Network, Console, Storage, Breakpoints) | `Not Started` | — | 2026-10-31 |
 | Linux CLI for Web Testing (`curl`, `jq`, `grep`, regex) | `Not Started` | — | 2026-10-31 |
@@ -44,8 +44,8 @@ This skill matrix tracks practical, hands-on capabilities across application sec
 | Skill / Competency | Current Status | Verification Note / Lab Link | Last Updated |
 | :--- | :---: | :--- | :--- |
 | Insecure Direct Object References (IDOR) - Horizontal | `Not Started` | — | 2026-10-31 |
-| Vertical Privilege Escalation (User -> Admin) | `Not Started` | — | 2026-10-31 |
-| Unprotected Administrative Endpoints | `Not Started` | — | 2026-10-31 |
+| Vertical Privilege Escalation (User -> Admin) | `Practiced With Help` | [Lab 002: privileged functionality](../labs/portswigger/unprotected-admin-functionality.md) | 2026-11-03 |
+| Unprotected Administrative Endpoints | `Practiced With Help` | [Lab 002](../labs/portswigger/unprotected-admin-functionality.md) | 2026-11-03 |
 | Role Modification via Profile Mass Assignment | `Not Started` | — | 2026-10-31 |
 | Broken Object-Level Authorization (BOLA in APIs) | `Not Started` | — | 2026-10-31 |
 
