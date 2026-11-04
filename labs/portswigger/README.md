@@ -11,6 +11,7 @@ This directory contains lab write-ups and exercise proofs completed on the [Port
 | **Path Traversal** | File path traversal, simple case | Apprentice | `Practiced With Help` | [Lab 001](file-path-traversal-simple-case.md) |
 | **Access Control** | Unprotected admin functionality | Apprentice | `Practiced With Help` | [Lab 002](unprotected-admin-functionality.md) |
 | **Access Control** | Unprotected admin functionality with unpredictable URL | Apprentice | `Not Started` | [Pending writeup] |
+| **Access Control** | User role controlled by request parameter | Apprentice | `Practiced With Help` | [Lab 003](user-role-controlled-by-request-parameter.md) |
 | **Access Control** | User role can be modified in user profile | Apprentice | `Not Started` | [Pending writeup] |
 | **Access Control** | User ID controlled by request parameter | Apprentice | `Not Started` | [Pending writeup] |
 | **Access Control** | Insecure direct object references | Apprentice | `Not Started` | [Pending writeup] |

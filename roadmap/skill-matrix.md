@@ -20,6 +20,7 @@ This skill matrix tracks practical, hands-on capabilities across application sec
 | HTTP Status Code Semantics (2xx, 3xx, 4xx, 5xx) | `Not Started` | — | 2026-10-31 |
 | Request Methods (GET, POST, PUT, DELETE, PATCH, OPTIONS) | `Not Started` | — | 2026-10-31 |
 | Header Manipulation (`Cookie`, `Authorization`, `Host`, etc.) | `Not Started` | — | 2026-10-31 |
+| Cookie Header Value Modification | `Practiced With Help` | [Lab 003: intercepted request cookie](../labs/portswigger/user-role-controlled-by-request-parameter.md) | 2026-11-04 |
 | TLS/SSL Handshake & Certificate Mechanics | `Not Started` | — | 2026-10-31 |
 | Same-Origin Policy (SOP) & CORS Mechanics | `Not Started` | — | 2026-10-31 |
 | Cookie Attributes (`HttpOnly`, `Secure`, `SameSite`) | `Not Started` | — | 2026-10-31 |
@@ -34,6 +35,7 @@ This skill matrix tracks practical, hands-on capabilities across application sec
 | Burp Repeater Request Modification & Replay | `Practiced With Help` | [Lab 001](../labs/portswigger/file-path-traversal-simple-case.md) | 2026-11-03 |
 | Burp Intruder / Caido Automate (Fuzzing workflows) | `Not Started` | — | 2026-10-31 |
 | Browser DevTools (Network, Console, Storage, Breakpoints) | `Not Started` | — | 2026-10-31 |
+| Browser DevTools Cookie Storage Editing | `Practiced With Help` | [Lab 003: stored cookie](../labs/portswigger/user-role-controlled-by-request-parameter.md) | 2026-11-04 |
 | Linux CLI for Web Testing (`curl`, `jq`, `grep`, regex) | `Not Started` | — | 2026-10-31 |
 | Nuclei Template Inspection & Safe Execution | `Not Started` | — | 2026-10-31 |
 
@@ -46,6 +48,7 @@ This skill matrix tracks practical, hands-on capabilities across application sec
 | Insecure Direct Object References (IDOR) - Horizontal | `Not Started` | — | 2026-10-31 |
 | Vertical Privilege Escalation (User -> Admin) | `Practiced With Help` | [Lab 002: privileged functionality](../labs/portswigger/unprotected-admin-functionality.md) | 2026-11-03 |
 | Unprotected Administrative Endpoints | `Practiced With Help` | [Lab 002](../labs/portswigger/unprotected-admin-functionality.md) | 2026-11-03 |
+| Parameter-Based Access Control (Forgeable Admin Cookie) | `Practiced With Help` | [Lab 003](../labs/portswigger/user-role-controlled-by-request-parameter.md) | 2026-11-04 |
 | Role Modification via Profile Mass Assignment | `Not Started` | — | 2026-10-31 |
 | Broken Object-Level Authorization (BOLA in APIs) | `Not Started` | — | 2026-10-31 |
 
